@@ -1,2 +1,3 @@
 # posts
-backup of markdown posts which are published here: blog.siyanh.icu
+These markdown files are backup of posts which were published on [my blog](blog.siyanh.icu).
+
